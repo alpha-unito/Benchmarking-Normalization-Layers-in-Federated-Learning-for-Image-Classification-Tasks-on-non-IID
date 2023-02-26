@@ -29,8 +29,12 @@ For the federated version:
 ## Contributors
 
 Bruno Casella <bruno.casella@unito.it>  
+
 Roberto Esposito <roberto.esposito@unito.it>
+
 Antonio Sciarappa <antonio.sciarappa.ext@leonardo.com>
+
 Carlo Cavazzoni <carlo.cavazzoni@leonardo.com>
+
 Marco Aldinucci <marco.aldinucci@unito.it>  
 
