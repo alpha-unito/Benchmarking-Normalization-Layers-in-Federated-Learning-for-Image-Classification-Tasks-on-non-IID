@@ -9,9 +9,7 @@ Models have been trained on the [HPC4AI](https://hpc4ai.unito.it/documentation/)
 
 ## Usage
 
-To run the experiment as is, clone [this]([[
-](https://github.com/CasellaJr/Benchmarking-Normalization-Layers-in-Federated-Learning-for-Image-Classification-Tasks-on-non-IID)]([
-](https://github.com/CasellaJr/Benchmarking-Normalization-Layers-in-Federated-Learning-for-Image-Classification-Tasks-on-non-IID))) repository and use the following:
+To run the experiment as is, clone [this](https://github.com/CasellaJr/Benchmarking-Normalization-Layers-in-Federated-Learning-for-Image-Classification-Tasks-on-non-IID) repository and use the following:
 For the centralized version just run the [MNIST_CENTRALIZED, CIFAR10_CENTRALIZED].ipynb notebooks, selecting the normalization layer you want to use.
 
 For the federated version:
